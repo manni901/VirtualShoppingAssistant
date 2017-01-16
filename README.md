@@ -20,6 +20,6 @@ The application is developed using Android SDK and API.AI SDK with SQLite as the
 - Concurrently, the results are shown on the home page and the filters are dynamically updated on the front page
 
 ##**Screenshots**
- ![](/images/screen1.png?width=200)    ![](/images/screen2.png?width=200) 
- ![](/images/screen3.png?width=200)    ![](/images/screen4.png?width=200) 
- ![](/images/screen5.png?width=200)    ![](/images/screen6.png?width=200) 
+<img src="/images/screen1.png" width=300 height=533 /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/screen2.png" width=300 height=533 /></br>
+<img src="/images/screen3.png" width=300 height=533 /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/screen4.png" width=300 height=533 /></br>
+<img src="/images/screen5.png" width=300 height=533 /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/screen6.png" width=300 height=533 />
